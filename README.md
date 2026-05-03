@@ -1,16 +1,23 @@
-## Hi there 👋
-🌱 I’m currently learning code ...
-<!--
-**Ar0dRz/Ar0dRz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ar0dRz
 
-Here are some ideas to get you started:
+Attorney & CPA. PhD candidate — researching AI and tax administrations in Mexico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write code when the law isn't enough to solve the problem.
+
+## Current stack
+
+- **Tax & constitutional law** — SAT, CFF, SCJN, amparo
+- **Criminal law** — tax, financial and cybercrime
+- **Python** — automation, legal data analysis
+- **Homelab** — Proxmox, self-hosting, privacy
+- **Security** — encryption, GrapheneOS, private networks
+
+## Interests
+
+Artificial intelligence · Tax law · Digital privacy  
+Digital rights · Philosophy of science & technology  
+Open source · Ethical hacking · Full-time nerd
+
+## Contact
+
+- X: [@david_nieto01](https://x.com/david_nieto01)
